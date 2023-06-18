@@ -13,7 +13,8 @@ npm install
 ```
 npm i -g @nestjs/cli
 ```
-4. Start application in mode development
+4. Rename file .env.template to .env
+5. Start application in mode development
 ```
 npm start run:dev
 ```
